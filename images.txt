@@ -1,1 +1,2 @@
 nodered/node-red:latest
+nodered/node-red:3.1
